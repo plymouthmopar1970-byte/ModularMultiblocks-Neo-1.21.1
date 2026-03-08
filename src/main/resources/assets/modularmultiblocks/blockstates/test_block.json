@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "modularmultiblocks:block/test_block"
+    }
+  }
+}
